@@ -1,0 +1,37 @@
+div.container {
+	width: 100%;
+	border: none;
+}
+header {
+	padding: 1px 200px;
+}
+body {
+	background-image: url("spaceBackground.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1 {
+	padding: 50px 500px 0px 600px;
+}
+p {
+	width: 500px;
+	font-style: arial;
+	font-size: 200%;
+	text-align: center;
+	margin:auto;
+	border: 2px solid black;
+}
+
+.button {
+	background-color:purple;
+	border:none;
+	color:white;
+	padding:200px 200px;
+	text-align:center;
+	font-size: 70px;
+	font-style: arial;
+	text-decoration: none;
+	display: inline-block;
+	margin:40px 100px 40px 100px;
+	cursor:pointer;
+}
